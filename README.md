@@ -8,11 +8,11 @@ IPython    v8.12.2
 numpy      v1.24.3 
 matplotlib v3.7.2
 
-To run the demo in your browser, please click the Binder link below (and be patient, it may take a few attempts to launch the server):
+To run the demo in your browser, please click the Binder link below (and be patient, it may take a few attempts to launch the server). Animations will not appear properly until you run through the steps one-by-one.
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/petelally/nperiodic_tutorial/0.1.0?labpath=nperiodic_tutorial.ipynb)
 
-To view the figures and animations without running the notebook itself, please follow the link here: 
+If you prefer to view the figures and animations without running the notebook itself, please follow the link here: 
 https://nbviewer.org/github/petelally/nperiodic_tutorial/blob/main/nperiodic_tutorial.ipynb 
 
 
