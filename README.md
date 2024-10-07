@@ -10,7 +10,7 @@ matplotlib v3.7.2
 
 To run the demo in your browser, please click the Binder link below:
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/petelally/nperiodic_tutorial/HEAD?labpath=nperiodic_tutorial.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/petelally/nperiodic_tutorial/0.1.0?labpath=nperiodic_tutorial.ipynb)
 
 To view the figures and animations without running the notebook itself, please follow the link here: 
 https://nbviewer.org/github/petelally/nperiodic_tutorial/blob/main/nperiodic_tutorial.ipynb 
