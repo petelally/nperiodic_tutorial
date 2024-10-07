@@ -14,3 +14,5 @@ To run the demo in your browser, please click the Binder link below:
 
 To view the figures and animations without running the notebook itself, please follow the link below: 
 https://nbviewer.org/github/petelally/nperiodic_tutorial/blob/main/nperiodic_tutorial.ipynb 
+
+[![DOI](https://zenodo.org/badge/868795348.svg)](https://doi.org/10.5281/zenodo.13899966)
