@@ -8,7 +8,7 @@ IPython    v8.12.2
 numpy      v1.24.3 
 matplotlib v3.7.2
 
-To run the demo in your browser, please click the Binder link below:
+To run the demo in your browser, please click the Binder link below (and be patient, it may take a few attempts to launch the server):
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/petelally/nperiodic_tutorial/0.1.0?labpath=nperiodic_tutorial.ipynb)
 
