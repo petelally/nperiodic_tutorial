@@ -7,3 +7,4 @@ Python     v3.8.18
 IPython    v8.12.2 
 numpy      v1.24.3 
 matplotlib v3.7.2
+scipy      v1.10.1 
