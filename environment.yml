@@ -1,0 +1,8 @@
+name: nperiodic-environment
+channels:
+  - conda-forge
+dependencies:
+  - python=3.8
+  - IPython=8.12
+  - numpy=1.24
+  - matplotlib=3.7
