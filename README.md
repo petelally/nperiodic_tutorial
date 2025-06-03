@@ -1,6 +1,6 @@
 ### Tutorial for simulating, visualising, and fitting N-periodic SSFP signals
 
-This is a tutorial to accompany the paper *'SSFP as an alternative to multi-echo gradient echo'* authored by Lally PJ, Jin Y, Huo Z, Beitone C, Chiew M, Matthews PM, Miller KL and Bangerter NK. 
+This is a tutorial to accompany the paper *'Steady-state free precession for T2\* relaxometry: All echoes in every readout with k-space aliasing'* (2025) Magn. Reson. Med. authored by Lally PJ, Jin Y, Huo Z, Beitone C, Chiew M, Matthews PM, Miller KL and Bangerter NK. (https://doi.org/10.1002/mrm.30590) 
 
 This demo was built using: 
 
